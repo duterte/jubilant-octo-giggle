@@ -1,0 +1,10 @@
+/node_modules/
+
+
+
+*lock*
+*.debug
+*.log
+*.txt
+*.rest
+*.http
