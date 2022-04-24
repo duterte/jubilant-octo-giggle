@@ -25,4 +25,4 @@ jobs:
           cache: "npm"
       - run: yarn
       - run: yarn run build
-      - run: ls
+      - run: pwd
